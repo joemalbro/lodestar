@@ -1,0 +1,43 @@
+<div class="header-v6 header-classic-black header-sticky">
+
+	<nav class="navbar navbar-inverse navbar-fixed-top" data-role="navigation" >
+		<div class="container">
+			<div class="menu-container page-scroll">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index">
+					<img src="../assets/img/lodestar/logo/white.svg" alt="">
+				</a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<div class="menu-container">
+					<ul class="nav navbar-nav" style="z-index:2000;">
+						<li class="page-scroll">
+							<a  href="index"><span style="" data-hover="HOME">Home</span></a>
+						</li>
+						<li>
+							<a href="the_work"><span data-hover="THE WORK">The Work</span></a>
+						</li>
+						<li class="page-scroll">
+							<a href="the_man"><span data-hover="THE MAN">The Man</span></a>
+						</li>
+						<li class="page-scroll">
+							<a href="the_studio"><span data-hover="THE STU-DIO">The Stu-dio</span></a>
+						</li>
+						<li class="page-scroll">
+							<a href="news"><span data-hover="NEWS">News</span></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container -->
+	</nav>
+</div>

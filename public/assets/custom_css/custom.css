@@ -1,0 +1,55 @@
+
+#picture1{
+	filter:grayscale(100%) brightness(50%);
+	transition:filter 0.5s;
+}
+#picture2{
+	filter:grayscale(100%) brightness(50%);
+	transition:filter 0.5s;
+}
+#picture3{
+	filter:grayscale(100%) brightness(50%);
+	transition:filter 0.5s;
+}
+
+
+#column1:hover #picture1{
+	filter:grayscale(0%) brightness(100%);
+}
+
+#column2:hover #picture2{
+	filter:grayscale(0%) brightness(100%);
+}
+
+#column3:hover #picture3{
+	filter:grayscale(0%) brightness(100%);
+}
+#column1:hover #page1{
+	color:white!important;
+	margin-left:50px;
+}
+#column2:hover #page2{
+	color:white!important;
+	margin-left:50px;
+}
+#column3:hover #page3{
+	color:white!important;
+	margin-left:50px;
+}
+
+#column1:hover #work1{
+	color:red!important;
+	margin-left:50px;
+}
+#column2:hover #work2{
+	color:red!important;
+	margin-left:50px;
+}
+#column3:hover #work3{
+	color:red!important;
+	margin-left:50px;
+}
+#column1:hover #workbox1{
+	background-color:black !important;
+	
+}
